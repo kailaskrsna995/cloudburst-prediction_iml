@@ -57,3 +57,10 @@ Hyperparameter Tuning: Fine-tune model parameters (e.g., learning rate, batch si
 
 Deployment: Develop a web or mobile application to allow real-time cloud burst predictions based on current weather conditions.
 
+Order of execution for files:
+out-rem.ipynb
+cleaning&encoding.ipynb
+rand_fors.ipynb
+lstm-sc.ipynb
+ANN.ipynb
+test2.ipynb(experimental)
