@@ -1,4 +1,6 @@
-Weather Prediction: Machine Learning Model for CloudBurst Forecasting
+CloudBurst Prediction: Testing different Machine Learning Models for CloudBurst Forecasting
+
+
 Project Overview
 This project aims to predict the occurrence of cloud bursts (a sudden and intense rainfall event) using weather data from various sources. By applying machine learning techniques, the goal is to build models that can predict whether a cloud burst will occur the following day based on weather parameters collected from historical data.
 
